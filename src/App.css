@@ -19,6 +19,9 @@ button {
 h1 {
   margin: 10px 0 10px 0;
 }
+li {
+  text-align: left;
+}
 
 .test{
   width: 100px;

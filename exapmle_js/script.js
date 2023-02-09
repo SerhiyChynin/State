@@ -9,6 +9,7 @@ btn.onclick = () => {
     console.log(value)
     comments.push(value);
     draw();
+    input.value = '';
     
 }
 
